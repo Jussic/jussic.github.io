@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Justine C, First Blog on Site"
+title: "A"
 date: 2015-10-08
 ---
 Well. Finally got around to putting this old website together. 
